@@ -1,0 +1,22 @@
+{
+  "name": "polymer-firebase-pwa",
+  "homepage": "https://github.com/VikramTiwari/do-codelabs",
+  "authors": [
+    "Vikram Tiwari <vikramtheone1@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "note-app": "polymerlabs/note-app#^0.9.0"
+  }
+}
