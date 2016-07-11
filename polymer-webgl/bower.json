@@ -1,0 +1,23 @@
+{
+	"name": "polymer-webgl",
+	"homepage": "https://github.com/VikramTiwari/do-codelabs",
+	"authors": [
+		"Vikram Tiwari <vikramtheone1@gmail.com>"
+	],
+	"description": "",
+	"main": "",
+	"license": "MIT",
+	"dependencies": {
+		"iron-elements": "PolymerElements/iron-elements#^1.0.0",
+		"paper-elements": "PolymerElements/paper-elements#^1.0.1",
+		"google-map": "GoogleWebComponents/google-map#^1.1.1",
+		"point-overlay": "googlecodelabs/polymer-webgl-visualization"
+	},
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	]
+}
